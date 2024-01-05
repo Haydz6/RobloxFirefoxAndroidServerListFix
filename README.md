@@ -1,5 +1,6 @@
 This is used to pack the fixServerListEntryFirefoxAndroid.js script
 
-Run npm run build
-
-dist/bundle.js should match
+Tested on Windows 10
+1. Install npm and NodeJS (npm 8.0.0) (NodeJS v16.11.1)
+2. Run npm run build
+3. Output will be dist/bundle.js

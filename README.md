@@ -1,4 +1,4 @@
-This is used to pack the fixServerListEntryFirefoxAndroid.js script
+This is used to pack the js/modules/fixServerListEntryFirefoxAndroid.js script
 
 Tested on Windows 10
 1. Install npm and NodeJS (npm 8.0.0) (NodeJS v16.11.1)

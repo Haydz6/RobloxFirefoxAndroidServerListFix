@@ -23,6 +23,8 @@
         "webpack-cli": "^5.1.4"
     },
     "dependencies": {
-        "lodash": "^4.17.5"
+        "lodash": "^4.17.5",
+        "ts-loader": "^9.5.1",
+        "typescript": "^5.3.3"
     }
 }
